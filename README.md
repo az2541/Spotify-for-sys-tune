@@ -8,4 +8,4 @@ It is highly recommended that you download sys-tune (https://github.com/HookedBe
 If you encounter any issues using Spotify for sys-tune, please [file an issue](https://github.com/az2541/Spotify-for-sys-tune/issues) and I will get back to you shortly.
 
 ## Building
-Build the same way you build sys-tune (see https://github.com/HookedBehemoth/sys-tune for more information about that).
+Build the same way you build sys-tune (see [here](https://github.com/HookedBehemoth/sys-tune) for more information about that).
